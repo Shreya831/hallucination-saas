@@ -1,7 +1,2 @@
 fastapi
 uvicorn
-sentence-transformers
-transformers
-torch
-requests
-wikipedia
